@@ -2,7 +2,7 @@
 </p>
 <p align="center">
     <em>
-        Recien graduado en un Máster Data Science y Business Analytics, tengo estusiasmo de seguir creciendo con pequeños y grandes proyectos con los que estoy tratando de mejorar y superar mis propios limites.
+        Graduado en un Máster Data Science y Business Analytics, tengo estusiasmo de seguir creciendo con pequeños y grandes proyectos con los que estoy tratando de mejorar y superar mis propios limites.
     </em>
     <br>
 </p>
